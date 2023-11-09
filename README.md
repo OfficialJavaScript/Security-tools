@@ -8,7 +8,7 @@ There are little to no tools in this repository as I am currently studying and I
 
 I do not own any of these tools I just put them in a repository and have tried to keep them up to date as possible, please go and support the creators of each of the tools that you use from this repository.
 
-If you want your tool removed please create an issue and ask me to remove it, I will still give the link to your repository - It's really just a convenience thing for most people.
+If you want your tool removed please create an issue and ask me to remove it, I will still give the link to your repository in this readme file - It's really just a convenience thing for most people to have it all added, might not be, create a issue and let me know!
 
 # Moneta
 
