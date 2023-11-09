@@ -1,5 +1,5 @@
 # Security-tools
-All helpful tools for defensive security
+A repository with lots of important tools, helpful in the security side of things.
 
 
 # Moneta
