@@ -14,8 +14,13 @@ Example:
 
 ``` Moneta64.exe -m ioc -p 12345 ```
 
-^       ^      ^   
+Explain the command:
 
+``` Moneta64.exe``` Runs Moneta 
+
+```-m ioc``` Uses the -m (memory) flag with ioc as the argument (Select only regions which have suspicions associated with them - IOC Specifically stands for Indicators of Compromise.)
+    
+```-p 12345``` uses the -p flag to denote Process, then specifies 12345 (the process) as the argument.
 
 # Process Hacker
 
