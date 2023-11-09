@@ -22,10 +22,3 @@ Explain the command:
     
 ```-p 12345``` uses the -p flag to denote Process, then specifies 12345 (the process) as the argument.
 
-# Process Hacker
-
-A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware (A mirror of Process Explorer)
-
-Perfect to use in unison with Moneta, scroll through the processes if you see something suspicious copy the PID and run it through Moneta.
-
-Github Page: https://github.com/PKRoma/ProcessHacker
