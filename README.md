@@ -1,6 +1,8 @@
 # Security-tools
 A repository with lots of important tools, helpful in the security side of things.
 
+# NOTICE
+There is little to no tools as I am currently studying and rushed to start this repository.
 
 # Moneta
 
