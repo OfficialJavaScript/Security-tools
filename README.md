@@ -2,13 +2,19 @@
 A repository with lots of important tools, helpful in the security side of things.
 
 # NOTICE
-There is little to no tools as I am currently studying and rushed to start this repository.
+There are little to no tools in this repository as I am currently studying and I don't have time to work on this much.
+
+# Disclaimer 
+
+I do not own any of these tools I just put them in a repository and have tried to keep them up to date as possible, please go and support the creators of each of the tools that you use from this repository.
+
+If you want your tool removed please create an issue and ask me to remove it, I will still give the link to your repository - It's really just a convenience thing for most people.
 
 # Moneta
 
 Moneta is a live usermode memory analysis tool for Windows with the capability to detect malware IOCs
 
-If there is something susupicious running in memory you can use this to check what the file is by entering the Process ID.
+If there is something suspicious running in memory you can use this to check what the file is by entering the Process ID.
 
 Github Page: https://github.com/forrest-orr/moneta
 
