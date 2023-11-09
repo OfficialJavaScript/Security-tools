@@ -22,9 +22,9 @@ Example:
 
 ``` Moneta64.exe -m ioc -p 12345 ```
 
-Explain the command:
+Explanation of this command:
 
-``` Moneta64.exe``` Runs Moneta 
+```Moneta64.exe``` Runs Moneta 
 
 ```-m ioc``` Uses the -m (memory) flag with ioc as the argument (Select only regions which have suspicions associated with them - IOC Specifically stands for Indicators of Compromise.)
     
